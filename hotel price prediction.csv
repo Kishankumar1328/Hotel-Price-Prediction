@@ -1,0 +1,121 @@
+ID,Hotel name,Price(BAM),Hotel star rating,Distance,Customer rating,Rooms,Squares,City
+1,Europe,139,5,350,8.3,1,25,Sarajevo
+2,Europe,187,5,350,8.3,2,40,Sarajevo
+3,Hills,255,5,10000,8.5,3,42,Sarajevo
+4,Hills,141,5,10000,8.5,2,42,Sarajevo
+5,Boutique,117,4,450,8.7,1,15,Sarajevo
+6,Boutique,274,4,450,8.7,4,50,Sarajevo
+7,Boutique,137,4,450,8.7,2,26,Sarajevo
+8,Radon plaza,155,5,7000,8.6,2,30,Sarajevo
+9,Radon plaza,244,5,7000,8.6,3,40,Sarajevo
+10,Holiday inn,113,4,2100,8.4,1,35,Sarajevo
+11,Holiday inn,167,4,2100,8.4,3,35,Sarajevo
+12,Holiday inn,283,4,2100,8.4,2,60,Sarajevo
+13,Grand,62,3,2500,7.9,1,14,Sarajevo
+14,Grand,98,3,2500,7.9,2,14,Sarajevo
+15,Hayat,78,3,300,7.1,2,12,Sarajevo
+16,Hayat,68,3,300,7.1,1,12,Sarajevo
+17,Brkic,59,2,7000,6.5,2,15,Sarajevo
+18,Brkic,39,2,7000,6.5,1,10,Sarajevo
+19,Saraj,147,3,750,7.9,3,20,Sarajevo
+20,Old town,176,3,250,9.4,3,28,Sarajevo
+21,Old town,108,3,250,9.4,1,12,Sarajevo
+22,Ruža,135,3,1400,9.3,2,25,Sarajevo
+23,Ruža,212,3,1400,9.3,4,50,Sarajevo
+24,Riverside residence,96,4,300,9.4,2,20,Sarajevo
+25,Riverside residence,135,4,300,9.4,4,40,Sarajevo
+26,Bristol,88,4,3400,8.7,2,22,Sarajevo
+27,Bristol,78,4,3400,8.7,1,15,Sarajevo
+28,Opal home,112,4,400,8.9,2,18,Sarajevo
+29,Opal home,96,4,400,8.9,1,14,Sarajevo
+30,Hollywood,169,4,10000,7.9,3,35,Sarajevo
+31,Fala,147,2,2200,8,4,24,Zagreb
+32,Fala,114,2,2200,8,2,18,Zagreb
+33,Fala,133,2,2200,8,3,20,Zagreb
+34,Zagreb,158,2,3500,6.9,4,20,Zagreb
+35,Zagreb,76,2,3500,6.9,1,12,Zagreb
+36,Best western,105,3,9000,8.9,1,13,Zagreb
+37,Best western,212,3,9000,8.9,3,30,Zagreb
+38,Forty two,98,3,3400,8.4,2,22,Zagreb
+39,Forty two,166,3,3400,8.4,4,45,Zagreb
+40,Viena,133,3,5000,8,2,25,Zagreb
+41,Viena,164,3,5000,8,3,30,Zagreb
+42,Palace,141,4,550,8.8,1,18,Zagreb
+43,Palace,178,4,550,8.8,2,20,Zagreb
+44,International,122,4,1600,8.7,2,23,Zagreb
+45,International,253,4,1600,8.7,4,38,Zagreb
+46,Garden,110,4,1200,8.3,2,16,Zagreb
+47,Garden,158,4,1200,8.3,3,26,Zagreb
+48,Esplanade,296,5,900,9.3,2,34,Zagreb
+49,Double tree,143,5,2400,8.7,2,26,Zagreb
+50,Double tree,226,5,2400,8.7,3,37,Zagreb
+51,Dubrovnik,217,4,150,9,2,27,Zagreb
+52,Dubrovnik,164,4,150,9,1,19,Zagreb
+53,Academia,190,4,700,8.9,2,35,Zagreb
+54,Academia,149,4,700,8.9,1,35,Zagreb
+55,Rebro,133,3,2700,8.7,2,20,Zagreb
+56,Rebro,189,3,2700,8.7,3,20,Zagreb
+57,Orient ekspres,178,3,1400,8.4,3,34,Zagreb
+58,Orient ekspres,108,3,1400,8.4,1,14,Zagreb
+59,Orient ekspres,151,3,1400,8.4,2,23,Zagreb
+60,The loop,95,3,2800,9.1,1,18,Zagreb
+61,Public House Hotel ,143,4,1000,9.5,2,22,Belgrade
+62,Public House Hotel ,201,4,1000,9.5,3,32,Belgrade
+63,Envoy Hotel,176,4,200,9.5,2,19,Belgrade
+64,Hilton Belgrade ,474,4,1400,9.4,3,55,Belgrade
+65,Hotel Bohemian Garni - Skadarlija,58,3,500,8.8,1,30,Belgrade
+66,Mama Shelter Belgrade ,174,4,650,9.2,2,20,Belgrade
+67,Hotel N ,59,3,5000,7.8,2,20,Belgrade
+68,Hotel N ,176,3,5000,7.8,2,56,Belgrade
+69,Hotel N ,92,3,5000,7.8,3,25,Belgrade
+70,Hotel Rex ,74,3,1600,8.2,2,22,Belgrade
+71,Room 25 Belgrade ,93,4,400,9.7,2,22,Belgrade
+72,Room 25 Belgrade ,89,4,400,9.7,1,22,Belgrade
+73,Garni Hotel Apart K ,67,3,8000,8.8,1,17,Belgrade
+74,City Code Exclusive ,64,4,200,8.9,2,22,Belgrade
+75,City Code Exclusive ,80,4,200,8.9,3,30,Belgrade
+76,Hotel Avalon Garni ,96,4,6000,8.6,2,20,Belgrade
+77,Hotel Avalon Garni ,76,4,6000,8.6,1,20,Belgrade
+78,Hyatt,255,5,2100,8.9,2,38,Belgrade
+79,Square nine,472,5,500,9.5,2,32,Belgrade
+80,Metropol palace,211,5,1500,8.8,1,26,Belgrade
+81,Hyatt,284,5,2100,8.9,3,38,Belgrade
+82,Hotel Avalon Garni ,137,4,6000,8.6,4,35,Belgrade
+83,Hotel Majestic,98,4,200,8.7,1,30,Belgrade
+84,Saint Ten Hotel,272,5,1800,9.4,1,40,Belgrade
+85,In Hotel ,160,4,3000,9,1,30,Belgrade
+86,Falkensteiner Hotel,219,4,3600,9.3,1,35,Belgrade
+87,Hotel Moskva,155,4,400,9,1,29,Belgrade
+88,Tullip Inn Putnik,108,3,4100,8.2,1,32,Belgrade
+89,Hotel Union,49,3,400,8.9,1,19,Belgrade
+90,Hotel Elegance,53,3,5000,8.8,1,26,Belgrade
+91,Hotel Emonec ,147,3,150,8.6,2,20,Ljubljana
+92,Atelier Hotel ,100,3,600,8.9,2,24,Ljubljana
+93,Adora Hotel,120,3,650,9,2,15,Ljubljana
+94,Hotel Center Ljubljana ,117,3,500,8.9,3,32,Ljubljana
+95,Hotel Lev,186,4,650,8.7,2,23,Ljubljana
+96,Hotel Lev,343,4,650,8.7,4,37,Ljubljana
+97,Best Western Premier Hotel Slon,192,4,250,8.8,2,23,Ljubljana
+98,Best Western Premier Hotel Slon,464,4,250,8.8,4,55,Ljubljana
+99,Radisson Blu Plaza Hotel Ljubljana,192,4,3900,8.9,2,28,Ljubljana
+100,Radisson Blu Plaza Hotel Ljubljana,152,4,3900,8.9,1,28,Ljubljana
+101,Radisson Blu Plaza Hotel Ljubljana,280,4,3900,8.9,3,40,Ljubljana
+102,City Hotel Ljubljana,139,3,300,9.1,2,16,Ljubljana
+103,City Hotel Ljubljana,148,3,300,9.1,2,25,Ljubljana
+104,Bit Center Hotel,109,2,3400,7.7,2,12,Ljubljana
+105,Bit Center Hotel,72,2,3400,7.7,1,12,Ljubljana
+106,Hotel Vila Katrca,62,3,1700,9,2,25,Ljubljana
+107,Hotel Vila Katrca,57,3,1700,9,1,25,Ljubljana
+108,Hotel Vila Katrca,112,3,1700,9,2,35,Ljubljana
+109,intercontinental,241,5,650,9,2,40,Ljubljana
+110,Hotel Mrak,139,3,350,8.7,2,37,Ljubljana
+111,Vander Urbani Resort - Member of Design Hotels,166,4,250,9.7,1,30,Ljubljana
+112,Four Points by Sheraton Ljubljana Mons ,194,4,4200,8.7,2,35,Ljubljana
+113,Hotel Nox,160,4,6000,9.2,1,33,Ljubljana
+114,Grand Hotel Union,208,4,150,9,1,38,Ljubljana
+115,B&B Hotel Ljubljana Park,113,3,700,8.3,1,25,Ljubljana
+116,WUD Hotel,121,3,3200,8.9,2,40,Ljubljana
+117,uHotel,161,4,250,9,1,28,Ljubljana
+118,Allegro Hotel,106,4,550,8.5,1,35,Ljubljana
+119,M Hotel,123,4,2400,8.4,1,31,Ljubljana
+120,Austria Trend Hotel,137,4,3500,8.8,1,34,Ljubljana
