@@ -1,11 +1,9 @@
-Certainly! Here's a comprehensive `README.md` file for your [Hotel-Price-Prediction](https://github.com/Kishankumar1328/Hotel-Price-Prediction) project.
 
-```markdown
 # 🏨 Hotel Price Prediction
 
-A machine learning project aimed at predicting hotel prices based on various features. This project utilizes SPSS Modeler for model building and includes datasets and scripts for data analysis and prediction.:contentReference[oaicite:6]{index=6}
+A machine learning project designed to predict hotel prices based on various features. This project utilizes IBM SPSS Modeler for model building and includes datasets and scripts for data analysis and prediction.
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```
 
@@ -20,26 +18,26 @@ Hotel-Price-Prediction/
 
 ````
 
-- **Hotel Price Prediction SPSS Modeler.str**: :contentReference[oaicite:8]{index=8}
-- **hotel price prediction.csv**: :contentReference[oaicite:11]{index=11}
-- **hotel price prediction 1000.csv**: :contentReference[oaicite:14]{index=14}
-- **main.ipynb**: :contentReference[oaicite:17]{index=17}
-- **main.py**: :contentReference[oaicite:20]{index=20}
-- **requirements.txt**: :contentReference[oaicite:23]{index=23}
-- **LICENSE**: :contentReference[oaicite:26]{index=26}:contentReference[oaicite:28]{index=28}
+- **Hotel Price Prediction SPSS Modeler.str**: SPSS Modeler stream file containing the predictive model.
+- **hotel price prediction.csv**: Primary dataset used for training and testing the model.
+- **hotel price prediction 1000.csv**: A subset of the dataset with 1000 entries for quick testing.
+- **main.ipynb**: Jupyter Notebook for data exploration and model evaluation.
+- **main.py**: Python script for running predictions.
+- **requirements.txt**: List of Python dependencies.
+- **LICENSE**: Apache 2.0 License.
 
 ## 📊 Dataset
 
-:contentReference[oaicite:30]{index=30}:contentReference[oaicite:32]{index=32}
+The dataset includes various features relevant to hotel pricing, such as:
 
-- :contentReference[oaicite:34]{index=34}
-- :contentReference[oaicite:37]{index=37}
-- :contentReference[oaicite:40]{index=40}
-- :contentReference[oaicite:43]{index=43}
-- :contentReference[oaicite:46]{index=46}
-- :contentReference[oaicite:49]{index=49}:contentReference[oaicite:51]{index=51}
+- Hotel location
+- Star rating
+- Number of rooms
+- Amenities offered
+- Customer reviews
+- Seasonality factors
 
-:contentReference[oaicite:53]{index=53}:contentReference[oaicite:55]{index=55}
+These features are used to train the predictive model to estimate hotel prices accurately.
 
 ## 🛠️ Installation
 
@@ -89,7 +87,7 @@ Ensure that the dataset files are in the same directory as the script.
 
 ## 📈 Model
 
-The predictive model is built using SPSS Modeler and is saved in the `Hotel Price Prediction SPSS Modeler.str` file. This model can be opened and modified using IBM SPSS Modeler for further analysis or deployment.
+The predictive model is built using IBM SPSS Modeler and is saved in the `Hotel Price Prediction SPSS Modeler.str` file. This model can be opened and modified using IBM SPSS Modeler for further analysis or deployment.
 
 ## 📄 License
 
@@ -105,8 +103,9 @@ For any inquiries or feedback, please contact [Kishankumar1328](https://github.c
 
 ```
 
+---
 
-Feel free to customize this `README.md` further to match the specific details and requirements of your project.:contentReference[oaicite:89]{index=89}
-::contentReference[oaicite:90]{index=90}
+Feel free to customize this `README.md` further to match the specific details and requirements of your project.
+::contentReference[oaicite:4]{index=4}
  
 ```
