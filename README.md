@@ -18,13 +18,13 @@ Hotel-Price-Prediction/
 
 ````
 
-- **Hotel Price Prediction SPSS Modeler.str**: SPSS Modeler stream file containing the predictive model.
-- **hotel price prediction.csv**: Primary dataset used for training and testing the model.
-- **hotel price prediction 1000.csv**: A subset of the dataset with 1000 entries for quick testing.
-- **main.ipynb**: Jupyter Notebook for data exploration and model evaluation.
-- **main.py**: Python script for running predictions.
-- **requirements.txt**: List of Python dependencies.
-- **LICENSE**: Apache 2.0 License.
+Hotel Price Prediction SPSS Modeler.str: SPSS Modeler stream file containing the predictive model.
+hotel price prediction.csv: Primary dataset used for training and testing the model.
+hotel price prediction 1000.csv: A subset of the dataset with 1000 entries for quick testing.
+main.ipynb: Jupyter Notebook for data exploration and model evaluation.
+main.py: Python script for running predictions.
+requirements.txt: List of Python dependencies.
+LICENSE: Apache 2.0 License.
 
 ## 📊 Dataset
 
@@ -52,13 +52,16 @@ These features are used to train the predictive model to estimate hotel prices a
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate
+   # On Windows: venv\Scripts\activate
    ```
 
 3. **Install the required dependencies**:
 
    ```bash
+
    pip install -r requirements.txt
+
    ```
 
 ## 🚀 Usage
@@ -101,11 +104,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 For any inquiries or feedback, please contact [Kishankumar1328](https://github.com/Kishankumar1328).
 
-```
 
----
-
-Feel free to customize this `README.md` further to match the specific details and requirements of your project.
-::contentReference[oaicite:4]{index=4}
- 
-```
